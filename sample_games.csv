@@ -1,0 +1,4 @@
+state,action,reward,next_state,done
+e2e4,e7e5,0.5,e7e5,False
+d2d4,d7d5,1.0,d7d5,False
+g1f3,g8f6,-0.5,g8f6,True
