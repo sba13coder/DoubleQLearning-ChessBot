@@ -4,4 +4,6 @@ __pycache__/
 *.pyd
 *.db
 .env
+# Ignore all CSVs except the sample
 *.csv
+!sample_games.csv
